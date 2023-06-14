@@ -1,0 +1,423 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .princi {
+  
+    background-color: #FAF0D5;
+   background-repeat: no-repeat;
+   background-position: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 45px;
+    box-shadow: ;
+    display: flex;  
+    box-shadow: 0px 2px 2px rgb(128, 128, 128);
+
+    
+    
+  }
+  
+  #logo{
+    background-image: url(presente/image__1_-removebg-preview.png);
+    background-size: 60px;
+    
+    width: 60px;
+    height: 37px;
+    background-position: center;
+    display: inline-block;
+    margin-left: 38%;
+  }
+
+  #lupa{
+    background-image: url(presente/);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 37px;
+    background-position: center;
+    display: inline-block;
+    margin-left: 30%;
+  }
+
+  #perfil{
+    background-image: url(presente/do-utilizador.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 39px;
+    background-position: center;
+    display: inline-block;
+    margin-top: ;
+  }
+  
+  #carrinho{
+    background-image: url(presente/carrinho-carrinho.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 39px;
+    background-position: center;
+    display: inline-block;
+    margin-top: ;
+  }
+  
+
+  .princip {
+    margin-top: 0px;
+    background-color: #ffffff;
+   margin-left: -2px;
+    text-align: center;
+    justify-content: center;
+    width: 390px;
+    height: 480px;
+    box-shadow: ;
+    display: inline-block;
+    box-shadow: 0px 5px 5px rgb(128, 128, 128);
+  }
+  
+  body {
+    background-color: #E4E5E5;
+    background-image: url();
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #linha{
+    width: 280px;
+      border: 0.1px solid #111111;
+      align-items: center;
+      display: inherit;
+  }
+  
+  #linha2{
+    width: 113px;
+      border: 0.1px solid #111111;
+      align-items: center;
+      display: inline-block;
+  }
+  
+  #ou{
+    display: inherit;
+  margin: 5%;
+  }
+  
+  button {
+    color: #000000;
+    background-color: #FAF0D5;
+    border-radius: 25px;
+    width: 125px;
+    height: 30px;
+    border: none;
+    margin: 5px;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 100%;
+    cursor: pointer;
+    font-family: 'Amaranth', sans-serif;
+    margin-right: 55%;
+  
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+    transition: all 0.3s;
+  } 
+  
+  h3{
+    font-family: 'Amaranth', sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    display: inline-block;
+    text-align: left;
+  
+  }
+  
+  h1{
+    font-family: 'Sacramento', cursive;
+    display: inline-block;
+    margin-left: px;
+  
+  }
+
+  h4{
+    display: inline-block;
+  }
+  
+  #ceg1{
+    margin-top: 350px;
+    
+  }
+  
+  #ceg2{
+    font-size: medium;
+    margin-top: 0%;
+  }
+  
+  #link{
+    margin-top: 10px;
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  #textarea {
+    
+      width: 130px;
+      background: #e6e6e6;
+      font-family: 'amaranth';
+      font-size: 15px;
+      line-height: 1.5;
+      color: #666;
+      height: 30px;
+      border-radius: 25px;
+      padding: 0 30px;
+      outline: none;
+      border: none;
+  }
+  
+  a{
+    display: contents;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .sessoes{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    
+  }
+
+  #row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 75px;
+  }
+
+
+  
+  #sessao1{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(21\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 84%;
+    background-position: center;
+  }
+
+  #sessao2{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(30\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: center;
+  }
+
+  #sessao3{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(29\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+  }
+
+  #sessao4{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(32\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+  }
+
+  #sessao5{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(31\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+  }
+
+  #sessao6{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/Imagem_do_WhatsApp_de_2023-06-05_à_s__13.31.20-removebg-preview\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+  }
+  #sessao7{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/Imagem_do_WhatsApp_de_2023-06-05_à_s__13.34.54-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 45%;
+    background-position: center;
+  
+  }
+  #sessao8{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(42\).png);
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: center;
+    
+  }
+  #sessao9{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/Imagem_do_WhatsApp_de_2023-06-05_à_s__13.34.36-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 125%;
+    background-position: center;
+    
+  }
+  #sessao10{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(43\).png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    
+  }
+
+  #sessao11{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(44\).png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center;
+    
+  }
+
+  #sessao12{
+    width: 190px;
+    height: 270px;
+    border-radius: 1%;
+    background-color: #b9b9b9;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 5%;
+    background-image: url(presente/image-removebg-preview\ \(45\).png);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    
+  }
+  #slogan{
+    margin-right: 55%;
+    font-size: 300%;
+    line-height: 0.7;
+    margin-top: 28px;
+    margin-bottom: 5px;
+  }
+
+  #slogan2{
+    margin-right: 55%;
+    
+  }
+
+  #slogan3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  #top1{
+    display: inline-block;
+    
+   
+  }
+
+  #top2{
+    display: inline-block;
+    ;
+  }
+
+  #top3{
+    display: inline-block;
+    
+  }
+
+  #top4{
+    display: inline-block;
+                                                            
+  }
+
+  #top5{
+    display: inline-block;
+    margin-right: 120px;
+  }
+
+  #sessao {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 74%;
+}
